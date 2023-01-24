@@ -3,14 +3,14 @@ Passgen
 
 Used for currently unidentified routers from either Zyxel or D-link\
 Found in /usr/bin of the binwalked firmware of the\
-Zyxel LTE3301-M209 (LTE3301-M209_V1.00(ABLG.0)C0.zip)\
+Zyxel LTE3301-M209 (LTE3301-M209_V1.00(ABLG.0)C0.zip)
 
 Mode 1: lower case ASCII\
 Mode 2: lower and upper case ASCII\
 Mode 3: memorable word\
 Mode 4: alphanumeric upper and lower case\
 Mode 5: numberic\
-Mode 6: hexadecimal\
+Mode 6: hexadecimal
 
 Usage: python3 passgen.py "hello world" 3 -length 10
 
