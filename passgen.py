@@ -11,8 +11,6 @@
 
 import hashlib
 import argparse
-import numpy
-from numpy.linalg import matrix_power
 
 def passgen(input, pwd_length, mode):
 
